@@ -1,0 +1,9 @@
+{
+  "name": "flux-exchange",
+  "private": true,
+  "scripts": {
+    "dev": "node server.cjs",
+    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/products.js",
+    "test": "node --test tests/engine.test.cjs"
+  }
+}
