@@ -1,5 +1,7 @@
 # Flux — onchain trading prototype
 
+Website for the `onchain_finance-` project.
+
 Run `npm run dev` and open http://127.0.0.1:5173. No dependencies are required.
 
 Responsive spot exchange interface with three demo markets, candlestick interval views, buy/sell market and limit orders, a 0.1% trading fee, reserved balances, cancellation, portfolio, and persistent browser-local history.
